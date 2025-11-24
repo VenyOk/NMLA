@@ -1,0 +1,3 @@
+/mnt/c/users/Venya/PycharmProjects/CHMLA/Lab7/BLAS/cmake-build-debug/CMakeFiles/Blas.dir
+/mnt/c/users/Venya/PycharmProjects/CHMLA/Lab7/BLAS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/users/Venya/PycharmProjects/CHMLA/Lab7/BLAS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
